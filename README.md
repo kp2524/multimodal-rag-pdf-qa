@@ -37,12 +37,10 @@ Pandas – Table structuring
 
 Gradio – Frontend interface
 
-**📂 Project Structure**
-├── app.py             # Main application code
-├── requirements.txt   # Python dependencies
-└── README.md          # Documentation
+
 
 **⚙️ Setup Instructions**
+
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
